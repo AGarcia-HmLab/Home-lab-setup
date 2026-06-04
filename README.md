@@ -1,7 +1,10 @@
 # Home lab setup
 ## Objective
 - Build lab enviornment by installing VirtualBox
-- learn how to create Virtual Machines
+- Create Virtual Machines
 ### Skills Learned
+- software installation
+- Virtualbox basic setup
+- Virtual machine experimentation
 ### Tools Used
 ## Steps
