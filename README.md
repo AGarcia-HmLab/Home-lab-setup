@@ -2,11 +2,11 @@
 ## Objective
 - Build lab enviornment by installing VirtualBox
 - Create Virtual Machines
-### Skills Learned
+## Skills Learned
 - software installation
 - Virtualbox basic setup
 - Virtual machine experimentation
-### Tools Used
+## Tools Used
 - Virtualbox
 - Microsoft OS
 ## Steps
