@@ -1,4 +1,4 @@
-# Home lab setup
+# Home lab setup - Lab0
 ## Objective
 - Build lab enviornment by installing VirtualBox
 - Create Virtual Machines
