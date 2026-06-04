@@ -7,4 +7,6 @@
 - Virtualbox basic setup
 - Virtual machine experimentation
 ### Tools Used
+- Virtualbox
+- Microsoft OS
 ## Steps
