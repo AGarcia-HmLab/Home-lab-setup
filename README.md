@@ -3,14 +3,14 @@
 - Build lab enviornment by installing VirtualBox
 - Create Virtual Machines
 - Learn Task Manager basics
+- Learn what is RAM, CPU, SSD & HDD
 ## Skills Learned
 - software installation
 - Virtualbox basic setup
 - Virtual machine experimentation
 - Understanding Task Manager 
-- Virtualbox
 - Microsoft OS
-- Task Manager
+- How tasks affect Task Manager
 ## Steps
 1. Open Task Manager using shortcut Crtl+Shift+Esc
 2. Identified PC CPU, RAM, and Storage capacities
@@ -26,3 +26,6 @@
 5. Went to virtualbox.com
 6. Downloaded and installed
 ## <img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/135503a8-2277-418b-9ea2-d6e8385874ac" />
+7. Set up new VM in Virtualbox
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/ec1fa099-eaa2-45f2-8b3a-e40b799d786d" />
+8. Created 3 VMs to start labs. Downloaded ISO for Windows and Ubuntu.
