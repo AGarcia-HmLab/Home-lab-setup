@@ -13,7 +13,7 @@
 - How tasks affect Task Manager
 ## Steps
 1. Open Task Manager using shortcut Crtl+Shift+Esc
-2. Identified PC CPU, RAM, and Storage capacities
+2. Identified PC CPU, RAM, and Storage capacities: 8 Processors, 24GB RAM, and 500GB Storage.
 3. Learned the differences between:
 * RAM-Random access memory; essentially a short term storage that allows the computer to access data quicker than retrieving it from the main SSD/HDD drive. RAM is also erased whenever the PC is turned off. 
 * CPU-Central Processing unit is what controls all the functions and directs the system on what to do in order to complete requests by performing all necessary calculations
