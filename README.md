@@ -30,4 +30,6 @@
 <img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/ec1fa099-eaa2-45f2-8b3a-e40b799d786d" />
 8. Created 3 VMs to start labs. Downloaded ISO for Windows and Ubuntu.
 <img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/95025f44-550e-4698-99d7-babd4ef62a7c" />
-Ran all VM to verify they are operational. Home Lab is setup is ready.
+9. Ran all VM to verify they are operational
+10. Installed CPUID CPU-Z
+11. Home lab is now complete
